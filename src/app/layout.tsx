@@ -3,7 +3,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 const geistSans = localFont({
-  src: "./fonts/GeistSans.woff",
+  src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
   weight: "100 900",
 });
